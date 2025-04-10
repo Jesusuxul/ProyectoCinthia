@@ -21,6 +21,7 @@ namespace InventarioDesarrollo
             lista();
         }
 
+        //prueba que si jala
         private void lista()
         {
             try
