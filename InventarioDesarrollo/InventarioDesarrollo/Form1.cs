@@ -20,7 +20,7 @@ namespace InventarioDesarrollo
         {
             lista();
         }
-
+        //pruebaque 
         private void lista()
         {
             try
